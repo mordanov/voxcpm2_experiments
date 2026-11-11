@@ -1,0 +1,8 @@
+Hello! Welcome to this demonstration of VoxCPM.
+Today we are testing local speech synthesis on an Apple Silicon Mac.
+----
+This is the second section of the audio output.
+It will be saved as a separate wav file.
+----
+And here is the third and final section.
+Thank you for listening!
