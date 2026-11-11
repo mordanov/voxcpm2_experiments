@@ -9,6 +9,22 @@ Converts a text file into multiple WAV files using [VoxCPM2](https://huggingface
 
 ## Setup
 
+### 1. Hugging Face token
+
+VoxCPM2 is a gated model. Request access at https://huggingface.co/openbmb/VoxCPM2, then set your token:
+
+```bash
+export HF_TOKEN=hf_...
+```
+
+Or log in once:
+
+```bash
+huggingface-cli login
+```
+
+### 2. Install dependencies
+
 ```bash
 python -m venv voxpy13
 source voxpy13/bin/activate
