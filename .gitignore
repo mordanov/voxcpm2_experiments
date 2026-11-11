@@ -1,0 +1,7 @@
+*.wav
+*.pdf
+voxpy13/
+.DS_Store
+__pycache__/
+*.pyc
+.idea/

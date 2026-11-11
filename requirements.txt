@@ -1,0 +1,6 @@
+torch==2.15.0
+torchaudio==2.11.1
+soundfile==0.14.0
+transformers==5.22.2
+huggingface_hub==2.4.0
+voxcpm==2.0.3
